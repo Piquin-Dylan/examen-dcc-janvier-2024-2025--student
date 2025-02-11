@@ -1,6 +1,6 @@
 # Monkeytype
 
-> Examen DCC — janvier 2024
+> Examen DCC — janvier 2025
 
 ## Préambule
 
