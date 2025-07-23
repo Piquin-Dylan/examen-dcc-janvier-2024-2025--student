@@ -9,7 +9,7 @@
   "author": "Daniel <daniel.schreurs@hepl.be>",
   "license": "ISC",
   "devDependencies": {
-    "sass": "^1.83.0",
+    "sass": "^1.84.0",
     "vite": "^6.0.3"
   }
 }
